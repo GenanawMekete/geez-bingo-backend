@@ -19,4 +19,4 @@ USER node
 
 EXPOSE 5000
 
-CMD ["node", "src/app.js"]
+CMD ["node", "src/App.js"]
